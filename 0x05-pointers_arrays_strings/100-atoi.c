@@ -33,5 +33,5 @@ break;
 c++;
 }
 ni *= min;
-return ni;
+return ni; // Add parentheses around ni
 }
