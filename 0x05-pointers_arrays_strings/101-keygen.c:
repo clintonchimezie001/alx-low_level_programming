@@ -1,0 +1,7 @@
+", password);i
+      |  ^~~~~
+      |  printf
+cc1"", password);
+      |  ^~~~~
+      |  printf
+cc1: all warnings being treated as errorsi: all warnings being treated as errorsi
