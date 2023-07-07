@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-void _puts(char *str)
+void _puts(__attribute__((unused)) char *str)
 {
     // Function implementation goes here
 }
